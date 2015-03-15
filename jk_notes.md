@@ -1,17 +1,21 @@
 NOTES by jookhai
 =====
 
-COMPUTER PROGRAMMING SERIES - EMBEDDED LINUX 101
+## COMPUTER PROGRAMMING SERIES - EMBEDDED LINUX 101
 (3 hours × 2 sessions)
-Conducted By : Mr Wesley Goi
-Format       : Workshop
-Location     : Prototyping Lab @ National Design Centre
 
+| Details | Desc | 
+| ---- | ---- |
+|Conducted By | Mr Wesley Goi|
+|Format       | Workshop |
+|Location     | Prototyping Lab @ National Design Centre |
+
+### Introduction
 With embedded platforms like the Raspberry Pi, ODROID and Beaglebone becoming increasing popular and cheaper - more hardware developers are jumping onto the embedded Linux bandwagon.
 
 Understand what Linux is all about, some basic shell commands for navigation, permissions and directories, installing packages as well as hardware I/O in this hands-on workshop!
 
-In this workshop, you will …
+### Deliverables 
 
 - Understand the components of an Embedded System 
 - Understand what is an Operating System, and what it does [In lesson]
@@ -26,15 +30,20 @@ In this workshop, you will …
 
 =====
 
-COMPUTER PROGRAMMING SERIES - FUNDAMENTALS OF BASH SCRIPTING
+## COMPUTER PROGRAMMING SERIES - FUNDAMENTALS OF BASH SCRIPTING
 (3 hours × 1 session)
-Conducted By : Mr Wesley Goi
-Format       : Workshop
-Location     : Prototyping Lab @ National Design Centre
+
+| Details | Desc | 
+| ---- | ---- |
+|Conducted By | Mr Wesley Goi|
+|Format       | Workshop|
+|Location     | Prototyping Lab @ National Design Centre|
+
+### Introduction
 
 Shell scripting is a widely practised means of carrying out scheduled and procedural tasks in Linux. Be it data logging, routine administration or launching a set of programs and interfacing with hardware - a basic understanding of shell scripting is essential for working with an embedded Linux system.
 
-In this workshop, you will …
+### Deliverables 
 
 - Know the difference between the sh and bash shells
 - Know the syntax intrinsics of BASH scripting
@@ -42,17 +51,22 @@ In this workshop, you will …
 
 =====
 
-COMPUTER PROGRAMMING SERIES - FUNDAMENTALS OF REVISION CONTROL & GIT
+## COMPUTER PROGRAMMING SERIES - FUNDAMENTALS OF REVISION CONTROL & GIT
 (3 hours × 1 session)
-Conducted By : Mr Wesley Goi
-Format       : Workshop
-Location     : Prototyping Lab @ National Design Centre
+
+| Details | Desc | 
+| ---- | ---- |
+| Conducted By | Mr Wesley Goi|
+|Format       | Workshop |
+|Location     | Prototyping Lab @ National Design Centre|
+
+### Introduction
 
 With embedded platforms like the Raspberry Pi, ODROID and Beaglebone becoming increasing popular and cheaper - more hardware developers are jumping onto the embedded Linux bandwagon.
 
 Understand what Linux is all about, some basic shell commands for navigation, permissions and directories, installing packages as well as hardware I/O in this hands-on workshop!
 
-In this workshop, you will …
+### Deliverables 
 
 - Re-visit the features of a Distributed Version Control System (DVCS), and how it facilitates effective backup and collaboration
 - Explore the command line (shell environment) as well as Graphical User Interface (GUI) front-ends to Git
