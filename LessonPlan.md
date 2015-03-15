@@ -46,9 +46,10 @@ Wesley
 * Directory structures
 
 | Folder | explanation |
-| `/dev` |             |
-| `/etc` |             |
-| `/usr` |             |
+| ----   | -----       |
+| /dev   |             |
+| /etc   |             |
+| /usr   |             |
 
 useful commands like `tree`, etc.
 
