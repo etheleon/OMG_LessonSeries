@@ -58,6 +58,7 @@ useful commands like `tree`, etc.
 Use [explain shell](explainshell.com)
 
 | Command | Explanation      |
+| --- | ---- |
 | cd      | move into folder |
 | ls      |                  |
 | ln      | link             |
