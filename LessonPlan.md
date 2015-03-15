@@ -89,6 +89,7 @@ Up to now, only shows how to connect to the PI with it still tethered to the lap
 # Equipment
 
 | Quantity | Description                                                          |
+| ----     | ----                                                                 |
 |          | Jumpper cables                                                       |
 |          | Raspberry PI                                                         |
 |          | Ethernet Cables                                                      |
